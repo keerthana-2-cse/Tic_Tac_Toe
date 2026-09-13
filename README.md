@@ -21,4 +21,9 @@ A classic two-player Tic Tac Toe game developed using MIT App Inventor. The app 
 ## Tech Stack
 - **MIT App Inventor** (blocks-based visual programming)
 
+- ![Output Screenshot](screenshots/output.png)
+
+
+*Fig: screenshot of Tic Tac Toe game *
+
 
