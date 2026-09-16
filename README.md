@@ -18,6 +18,10 @@ A classic two-player Tic Tac Toe game developed using MIT App Inventor. The app 
 - One-tap game reset functionality
 - Simple, distraction-free UI
 
+## Original Android App (MIT App Inventor)
+  original Android app built with [MIT App Inventor](https://appinventor.mit.edu/).
+
+- [Download the .aia source file](./TTT.aia)
 ## Tech Stack
 - **MIT App Inventor** (blocks-based visual programming)
 ## screenshot of the game
